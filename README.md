@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fehmarcos
+- 👀 I’m interested in Job Opportunity
+- 🌱 I’m currently learning software engineering in UTFPR DV
+- 💞️ I’m looking to collaborate on ambitious project
+- 📫 How to reach me fehmarcos@gmail.com
